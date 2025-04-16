@@ -10,6 +10,6 @@
 * [16928번](https://www.acmicpc.net/problem/16928) (골드5)
 
 25.04.16
-* [11053번](https://www.acmicpc.net/problem/11053)
-* [9935번](https://www.acmicpc.net/problem/9935)
-* [2156번](https://www.acmicpc.net/problem/2156)
+* [11053번](https://www.acmicpc.net/problem/11053) (실버2)
+* [9935번](https://www.acmicpc.net/problem/9935) (골드4)
+* [2156번](https://www.acmicpc.net/problem/2156) (실버1)
