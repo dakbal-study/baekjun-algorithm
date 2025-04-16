@@ -38,6 +38,9 @@ if n == 1:
     print(wine[1])
 elif n == 2:
     print(wine[1] + wine[2])
+# case 1) dp[i - 1] : 이번 잔 안 마시고, i-1번째까지의 최대값을 유지
+# case 2) dp[i - 2] + wine[i] : i-2까지 마시고, i번째 잔만 마시는 경우
+# case 3) dp[i - 3] + wine[i - 1] + wine[i] : i-3까지 마시고, i-1번째와 i번째 잔을 마시는 경우
 else:
     dp = [0] * (n + 1)
     dp[1] = wine[1]
