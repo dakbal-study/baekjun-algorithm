@@ -1,18 +1,16 @@
 # baekjun-algorithm
 
-## 스터디 멤버 & 규칙
+<div>
+  <a href="https://github.com/apple3285"><img src="https://avatars.githubusercontent.com/u/32658464?v=4" width="60"></a> &nbsp&nbsp
+  <a href="https://github.com/Rose4tune"><img src="https://avatars.githubusercontent.com/u/81802112?v=4" width="60"></a> &nbsp&nbsp
+  <a href="https://github.com/dydgjs200"><img src="https://avatars.githubusercontent.com/u/25136172?v=4" width="60"></a> &nbsp&nbsp
+  <a href="https://github.com/jung18"><img src="https://avatars.githubusercontent.com/u/81799517?v=4" width="60"></a>
+</div>
+
+## 스터디 규칙
 * 정기 모임 : **매주 수요일 6pm**
   * 백준(BOJ) 알고리즘 문제 풀어오기 & 코드 리뷰
   * 다음주 문제 선정자 정하기
-
-## 스터디 멤버
-<div>
-  <a href="https://github.com/apple3285"><img src="https://avatars.githubusercontent.com/u/32658464?v=4" width="80"></a>
-  <a href="https://github.com/Rose4tune"><img src="https://avatars.githubusercontent.com/u/81802112?v=4" width="80"></a>
-  <a href="https://github.com/dydgjs200"><img src="https://avatars.githubusercontent.com/u/25136172?v=4" width="80"></a>
-  <a href="https://github.com/jung18"><img src="https://avatars.githubusercontent.com/u/81799517?v=4" width="80"></a>
-</div>
-
 
 ## 스터디 진행상황 (최근순)
 25.04.30
