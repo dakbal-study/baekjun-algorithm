@@ -7,6 +7,8 @@
   <a href="https://github.com/jung18"><img src="https://avatars.githubusercontent.com/u/81799517?v=4" width="60"></a>
 </div>
 
+<!-- * [번](https://www.acmicpc.net/problem/) (실버) :  -->
+
 ## 스터디 규칙
 * 정기 모임 : **매주 수요일 6pm**
   * 백준(BOJ) 알고리즘 문제 풀어오기 & 코드 리뷰
@@ -17,7 +19,14 @@
 * [18870번](https://www.acmicpc.net/problem/18870) (실버2) : 좌표 압축
 * [14888번](https://www.acmicpc.net/problem/14888) (실버1) : 연산자 끼워넣기
 * [11501번](https://www.acmicpc.net/problem/11501) (실버2) : 주식
-  
+* [29767번](https://www.acmicpc.net/problem/29767) (실버4) : 점수를 최대로
+* [20922번](https://www.acmicpc.net/problem/20922) (실버1) : 겹치는 건 싫어
+* [1929번](https://www.acmicpc.net/problem/1929) (실버3) : 소수 구하기
+
+<details>
+<summary>2025.04</summary>
+<div markdown="2504">
+
 25.04.30 <br/>
 (근로자의 날~어린이날 이어진 연휴로 스터디도 봄방학)
 
@@ -35,3 +44,6 @@
 * [1181번](https://www.acmicpc.net/problem/1181) (실버5) : 단어 정렬
 * [10773번](https://www.acmicpc.net/problem/10773) (실버4) : 제로
 * [16928번](https://www.acmicpc.net/problem/16928) (골드5) : 뱀과 사다리 게임
+</div>
+</details>
+
