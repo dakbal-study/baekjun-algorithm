@@ -15,6 +15,11 @@
   * 다음주 문제 선정자 정하기
 
 ## 스터디 진행상황 (최근순)
+25.05.21 (DH)
+* [21608번](https://www.acmicpc.net/problem/21608) (골드5) : 상어 초등학교
+* [11726번](https://www.acmicpc.net/problem/11726) (실버3) : 2×n 타일링
+* [9012번](https://www.acmicpc.net/problem/9012) (실버4) : 괄호
+
 25.05.14
 * [2178번](https://www.acmicpc.net/problem/2178) (실버1) : 미로 탐색 (YS)
 * [10844번](https://www.acmicpc.net/problem/10844) (실버1) : 쉬운 계단 수 (SH)
