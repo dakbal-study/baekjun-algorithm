@@ -38,6 +38,8 @@
 * [1929번](https://www.acmicpc.net/problem/1929) (실버3) : 소수 구하기 (YS)
 * [29767번](https://www.acmicpc.net/problem/29767) (실버4) : 점수를 최대로 (YH)
 
+---
+
 <details>
   <summary><b>2025.04</b></summary>
   <div markdown="1">
