@@ -15,6 +15,11 @@
   * 다음주 문제 선정자 정하기
 
 ## 스터디 진행상황 (최근순)
+25.05.28 (SH)
+* [2668번](https://www.acmicpc.net/problem/2668) (골드5) : 숫자고르기
+* [2531번](https://www.acmicpc.net/problem/2531) (실버1) : 회전 초밥
+* [2304번](https://www.acmicpc.net/problem/2304) (실버2) : 창고 다각형
+
 25.05.21 (DH)
 * [21608번](https://www.acmicpc.net/problem/21608) (골드5) : 상어 초등학교
 * [11726번](https://www.acmicpc.net/problem/11726) (실버3) : 2×n 타일링
