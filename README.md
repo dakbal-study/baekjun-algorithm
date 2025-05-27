@@ -39,25 +39,25 @@
 * [29767번](https://www.acmicpc.net/problem/29767) (실버4) : 점수를 최대로 (YH)
 
 <details>
-  <summary>2025.04</summary>
-  <div markdown="2504">
-    25.04.30 <br/>
-    (근로자의 날~어린이날 이어진 연휴로 스터디도 봄방학)
+  <summary><b>2025.04</b></summary>
+  <div markdown="1">
+25.04.30 
+(근로자의 날~어린이날 이어진 연휴로 스터디도 봄방학) <br/>
     
-    25.04.23
-    * [1744번](https://www.acmicpc.net/problem/1744) (골드4) : 수 묶기 (YS)
-    * [2110번](https://www.acmicpc.net/problem/2110) (골드4) : 공유기 설치 (SH)
-    * [6603번](https://www.acmicpc.net/problem/6603) (실버2) : 로또 (YH)
+25.04.23
+* [1744번](https://www.acmicpc.net/problem/1744) (골드4) : 수 묶기 (YS)
+* [2110번](https://www.acmicpc.net/problem/2110) (골드4) : 공유기 설치 (SH)
+* [6603번](https://www.acmicpc.net/problem/6603) (실버2) : 로또 (YH)
     
-    25.04.16
-    * [9935번](https://www.acmicpc.net/problem/9935) (골드4) : 문자열 폭발 (YH)
-    * [2156번](https://www.acmicpc.net/problem/2156) (실버1) : 포도주 시식 (DH)
-    * [11053번](https://www.acmicpc.net/problem/11053) (실버2) : 가장 긴 증가하는 부분 수열 (SH)
-    
-    25.04.08
-    * [16928번](https://www.acmicpc.net/problem/16928) (골드5) : 뱀과 사다리 게임 (YH)
-    * [10773번](https://www.acmicpc.net/problem/10773) (실버4) : 제로 (YH)
-    * [1181번](https://www.acmicpc.net/problem/1181) (실버5) : 단어 정렬 (YH)
+25.04.16
+* [9935번](https://www.acmicpc.net/problem/9935) (골드4) : 문자열 폭발 (YH)
+* [2156번](https://www.acmicpc.net/problem/2156) (실버1) : 포도주 시식 (DH)
+* [11053번](https://www.acmicpc.net/problem/11053) (실버2) : 가장 긴 증가하는 부분 수열 (SH)
+
+25.04.08
+* [16928번](https://www.acmicpc.net/problem/16928) (골드5) : 뱀과 사다리 게임 (YH)
+* [10773번](https://www.acmicpc.net/problem/10773) (실버4) : 제로 (YH)
+* [1181번](https://www.acmicpc.net/problem/1181) (실버5) : 단어 정렬 (YH)
   </div>
 </details>
 
