@@ -15,6 +15,11 @@
   * 다음주 문제 선정자 정하기
 
 ## 스터디 진행상황 (최근순)
+25.06.05 Thu.
+* [11403번](https://www.acmicpc.net/problem/11403) (실버1) : 경로 찾기 (YH)
+* [1254번](https://www.acmicpc.net/problem/1254) (실버2) : 팰린드롬 만들기 (SH)
+* [10799번](https://www.acmicpc.net/problem/10799) (실버2) : 쇠막대기 (DH)
+
 25.05.29 Thu.
 * [2668번](https://www.acmicpc.net/problem/2668) (골드5) : 숫자고르기 (SH)
 * [2531번](https://www.acmicpc.net/problem/2531) (실버1) : 회전 초밥 (SH)
