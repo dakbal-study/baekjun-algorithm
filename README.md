@@ -19,7 +19,13 @@
 * [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) (lv2) (DH)
 * [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) (lv2) (YS)
 
+---
+
+<details>
+  <summary><b>2025.06</b></summary>
+  <div markdown="1">
 25.06.27 Fri.
+
 * [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (lv2) (SH)
 * [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) (lv2) (DH)
 * [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) (lv2) (YS)
@@ -33,8 +39,14 @@
 * [11403번](https://www.acmicpc.net/problem/11403) (실버1) : 경로 찾기 (YH)
 * [1254번](https://www.acmicpc.net/problem/1254) (실버2) : 팰린드롬 만들기 (SH)
 * [10799번](https://www.acmicpc.net/problem/10799) (실버2) : 쇠막대기 (DH)
+  </div>
+</details>
 
+<details>
+  <summary><b>2025.05</b></summary>
+  <div markdown="1">
 25.05.29 Thu.
+    
 * [2668번](https://www.acmicpc.net/problem/2668) (골드5) : 숫자고르기 (SH)
 * [2531번](https://www.acmicpc.net/problem/2531) (실버1) : 회전 초밥 (SH)
 * [2304번](https://www.acmicpc.net/problem/2304) (실버2) : 창고 다각형 (SH)
@@ -54,8 +66,8 @@
 * [11501번](https://www.acmicpc.net/problem/11501) (실버2) : 주식 (DH)
 * [1929번](https://www.acmicpc.net/problem/1929) (실버3) : 소수 구하기 (YS)
 * [29767번](https://www.acmicpc.net/problem/29767) (실버4) : 점수를 최대로 (YH)
-
----
+  </div>
+</details>
 
 <details>
   <summary><b>2025.04</b></summary>
