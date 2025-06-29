@@ -11,11 +11,25 @@
 
 ## 스터디 규칙
 * 정기 모임 : **매주 목요일 6pm**
-  * 백준(BOJ) 알고리즘 문제 풀어오기 & 코드 리뷰
+  * 백준(BOJ)/프로그래머스 알고리즘 문제 풀어오기 & 코드 리뷰
   * 다음주 문제 선정자 정하기
 
 ## 스터디 진행상황 (최근순)
-25.06.05 Thu.
+25.07.05 Fri.
+* [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) (lv2) (DH)
+* [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) (lv2) (YS)
+
+25.06.27 Fri.
+* [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) (lv2) (SH)
+* [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) (lv2) (DH)
+* [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) (lv2) (YS)
+
+25.06.18 Wen.
+* [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) (lv2) (YS)
+* [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) (lv2) (DH)
+* [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) (lv2) (SH)
+
+25.06.10 Tue.
 * [11403번](https://www.acmicpc.net/problem/11403) (실버1) : 경로 찾기 (YH)
 * [1254번](https://www.acmicpc.net/problem/1254) (실버2) : 팰린드롬 만들기 (SH)
 * [10799번](https://www.acmicpc.net/problem/10799) (실버2) : 쇠막대기 (DH)
