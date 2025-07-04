@@ -15,7 +15,7 @@
   * 다음주 문제 선정자 정하기
 
 ## 스터디 진행상황 (최근순)
-25.07.05 Fri.
+25.07.04 Fri.
 * [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) (lv2) (DH)
 * [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) (lv2) (YS)
 * [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) (lv2) (SH)
